@@ -6,7 +6,7 @@
   }
 
   .magic i {
-    color: orange;
+    color: yellow;
     filter: grayscale(100%);
     position: relative;
     animation: disable 0.5s forwards;
